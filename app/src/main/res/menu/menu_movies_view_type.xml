@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/detail"
+            android:icon="@drawable/ic_view_grid"
+            android:title="@string/detail"
+            app:showAsAction="always" />
+
+        <item
+            android:id="@+id/fanArt"
+            android:icon="@drawable/ic_sort_black_24dp"
+            android:title="@string/fan_art"
+            app:showAsAction="always" />
+
+        <item
+            android:id="@+id/wall"
+            android:icon="@drawable/ic_search_white"
+            android:title="@string/wall"
+            app:showAsAction="always" />
+    </group>
+</menu>

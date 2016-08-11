@@ -1,0 +1,70 @@
+apply plugin: 'com.android.application'
+
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.1"
+
+    defaultConfig {
+        applicationId "tv.animeftw.app"
+        minSdkVersion 17
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+
+        vectorDrawables.useSupportLibrary = true
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    dataBinding {
+        enabled = true
+    }
+
+    packagingOptions {
+        pickFirst 'META-INF/services/javax.annotation.processing.Processor'
+        pickFirst 'META-INF/NOTICE.txt'
+        pickFirst 'META-INF/LICENSE.txt'
+        pickFirst 'META-INF/ASL2.0'
+
+
+    }
+
+    lintOptions {
+        abortOnError false
+    }
+
+
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:appcompat-v7:23.4.0'
+    compile 'com.android.support:design:23.4.0'
+    compile 'com.jakewharton:butterknife:7.0.1'
+    compile 'com.squareup.retrofit:retrofit:1.9.0'
+    compile 'com.google.code.gson:gson:2.5'
+    compile 'com.squareup.okhttp:okhttp:2.7.0'
+    compile 'com.nostra13.universalimageloader:universal-image-loader:1.9.5'
+    compile 'org.greenrobot:eventbus:3.0.0'
+    compile 'de.hdodenhof:circleimageview:2.0.0'
+    compile 'io.realm:realm-android:0.87.0'
+    compile 'com.github.ybq:Android-SpinKit:1.0.4'
+    compile 'com.github.orangegangsters:swipy:1.2.3@aar'
+    compile 'com.brucetoo.pickview:library:1.1.1'
+    compile 'io.reactivex:rxandroid:1.2.0'
+    compile 'io.reactivex:rxjava:1.1.5'
+    compile 'com.jakewharton.rxbinding:rxbinding-appcompat-v7:0.4.0'
+
+    compile 'com.android.support:mediarouter-v7:23.4.0'
+    compile 'com.google.android.gms:play-services-cast-framework:9.4.0'
+    compile 'com.google.android.libraries.cast.companionlibrary:ccl:2.8.4'
+    compile 'com.google.android.gms:play-services-ads:9.4.0'
+ }
+

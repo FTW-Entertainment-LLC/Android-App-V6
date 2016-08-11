@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+
+        <variable
+            name="categories"
+            type="String" />
+
+        <variable
+            name="movie"
+            type="tv.animeftw.app.model.MovieEntity" />
+    </data>
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp">
+
+        <ImageView
+            android:id="@+id/posterImage"
+            android:layout_width="100dp"
+            android:layout_height="120dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginRight="16dp"
+            android:scaleType="matrix"
+            android:src="@drawable/video_holder"
+            app:imageUrl="@{movie.image}" />
+
+        <TextView
+            android:id="@+id/tvTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@+id/posterImage"
+            android:layout_toRightOf="@+id/posterImage"
+            android:ellipsize="end"
+            android:maxLines="2"
+            android:text="@{movie.fullSeriesName}"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvGenre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tvTitle"
+            android:layout_toEndOf="@+id/posterImage"
+            android:layout_toRightOf="@+id/posterImage"
+            android:ellipsize="end"
+            android:maxLines="2"
+            android:text="@{categories}"
+            android:textColor="@color/grayTextColor"
+            android:textSize="18dp"
+            android:textStyle="italic" />
+
+        <TextView
+            android:id="@+id/tvDesc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tvGenre"
+            android:layout_toEndOf="@+id/posterImage"
+            android:layout_toRightOf="@+id/posterImage"
+            android:ellipsize="end"
+            android:maxLines="4"
+            android:text="@{movie.description}"
+            android:textColor="@android:color/black"
+            android:textSize="14dp" />
+
+        <TextView
+            android:id="@+id/tvRating"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tvDesc"
+            android:layout_toRightOf="@+id/posterImage"
+            android:ellipsize="end"
+            android:gravity="bottom"
+            android:maxLines="1"
+            android:text='@{"Ratings: "+movie.averageRating}'
+            android:textColor="@android:color/black"
+            android:textSize="14dp"
+            android:textStyle="italic" />
+
+        <TextView
+            android:id="@+id/tvYear"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/tvDesc"
+            android:ellipsize="end"
+            android:gravity="bottom"
+            android:maxLines="1"
+            android:text="2016"
+            android:textColor="@android:color/black"
+            android:textSize="14dp"
+            android:textStyle="italic" />
+
+    </RelativeLayout>
+</layout>

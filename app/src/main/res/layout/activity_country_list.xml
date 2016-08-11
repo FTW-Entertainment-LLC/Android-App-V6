@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.CountryListActivity">
+
+    <include
+        android:id="@+id/appbar"
+        layout="@layout/layout_app_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:transitionName="sharedToolbar"
+        />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/countryList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/appbar">
+    </android.support.v7.widget.RecyclerView>
+
+</RelativeLayout>

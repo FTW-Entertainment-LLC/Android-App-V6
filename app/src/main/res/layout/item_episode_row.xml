@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dp">
+
+    <ImageView
+        android:id="@+id/posterImage"
+        android:layout_width="150dp"
+        android:layout_height="100dp"
+        android:scaleType="matrix"
+        android:src="@mipmap/ic_launcher" />
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toEndOf="@+id/posterImage"
+        android:layout_toRightOf="@+id/posterImage"
+        android:ellipsize="end"
+        android:maxLines="2"
+        android:text="This is a title"
+        android:textColor="@color/colorPrimary"
+        android:textSize="18dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginStart="16dp"
+        />
+
+    <TextView
+        android:id="@+id/tvEpisodeNum"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvDesc"
+        android:layout_alignBottom="@id/posterImage"
+        android:layout_toEndOf="@+id/posterImage"
+        android:gravity="bottom"
+        android:layout_toRightOf="@+id/posterImage"
+        android:ellipsize="end"
+        android:maxLines="4"
+        android:text="Ep: 1"
+        android:textStyle="italic"
+        android:textColor="@android:color/black"
+        android:layout_marginLeft="16dp"
+        android:layout_marginStart="16dp"
+        android:textSize="14dp" />
+
+    <TextView
+        android:id="@+id/tvRating"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvDesc"
+        android:layout_alignBottom="@id/posterImage"
+        android:gravity="bottom"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:ellipsize="end"
+        android:maxLines="4"
+        android:textStyle="italic"
+        android:text="Rating: 4.0"
+        android:textColor="@android:color/black"
+        android:textSize="14dp" />
+
+</RelativeLayout>

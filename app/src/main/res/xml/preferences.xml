@@ -1,0 +1,15 @@
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <PreferenceCategory
+        android:title="Settings">
+
+        <Preference
+            android:key="logout"
+            android:title="Logout"
+            android:icon="@drawable/ic_person"
+            android:summary="Logout from this device" />
+
+    </PreferenceCategory>
+</PreferenceScreen>

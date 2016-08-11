@@ -1,0 +1,56 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.HomeFragment"
+    android:paddingLeft="16dp"
+    android:paddingTop="16dp"
+    android:paddingRight="16dp"
+    >
+
+
+     <TextView
+         android:id="@+id/recentLabel"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:text="Recently Updated"/>
+
+     <android.support.v7.widget.RecyclerView
+         android:id="@+id/recentRecyclerView"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:layout_below="@+id/recentLabel"
+         android:layout_marginTop="5dp"/>
+
+     <Button
+         android:id="@+id/btnMore"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_alignParentRight="true"
+         android:layout_alignParentEnd="true"
+         android:layout_below="@+id/recentRecyclerView"
+         android:textColor="@android:color/white"
+         android:background="@color/colorPrimary"
+         android:padding="8dp"
+         android:text="MORE"/>
+
+
+     <android.support.v7.widget.RecyclerView
+         android:id="@+id/newsRecyclerView"
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:layout_below="@+id/btnMore"
+         android:layout_marginTop="5dp"/>
+
+
+
+     <com.github.ybq.android.spinkit.SpinKitView
+         xmlns:app="http://schemas.android.com/apk/res-auto"
+         android:id="@+id/spin_kit"
+         style="@style/SpinKitView.Large.ThreeBounce"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_centerInParent="true"
+         app:SpinKit_Color="@color/colorPrimary" />
+
+</RelativeLayout>

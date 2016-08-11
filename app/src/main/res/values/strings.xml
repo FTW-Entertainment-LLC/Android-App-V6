@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">AnimeFTW.tv</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="my_account">My Account</string>
+    <string name="about">about</string>
+    <string name="version_x">Version %s</string>
+    <string name="feedback_via_email">feedback via email</string>
+    <string name="rate_app">rate app</string>
+    <string name="homepage">homepage</string>
+    <string name="copyright_message">copyright &#169; 2015 AnimeFTW.tv</string>
+
+    <string name="about_content">Log in to your AnimeFTW.tv account to view unlicenced Anime. Feature include My Watchlist
+    integration, Series Ratings, Episode Comments, Series Top Listings.
+        Enjoy your favorite unlicenced Anime from your Android Phone.</string>
+
+
+    <string name="failed_to_connect_msg">Failed to connect, please check internet connection</string>
+    <string name="view_type">View type</string>
+    <string name="search">Search</string>
+    <string name="name">Name</string>
+    <string name="date">Date</string>
+    <string name="hide_watched">Hide watched</string>
+    <string name="with_resume_point">With resume point</string>
+    <string name="year">Year</string>
+    <string name="rating">Rating</string>
+    <string name="dateAdded">Date added</string>
+    <string name="detail">Details</string>
+    <string name="fan_art">Fan art</string>
+    <string name="wall">Wall</string>
+    <string name="select_country">Select Country</string>
+
+    <string-array name="tracker_or_manual_array">
+        <item>Manual</item>
+        <item>Tracker</item>
+    </string-array>
+
+    <string-array name="entry_status">
+        <item>Planning to Watch</item>
+        <item>Watching</item>
+        <item>Finished</item>
+        <item>Someday Maybe</item>
+    </string-array>
+
+    <string name="cast_app_id">0AEBC140</string>
+
+    <string name="oops">Oops</string>
+    <string name="ok">OK</string>
+    <string name="error">Error</string>
+    <string name="loading">Loading..</string>
+    <string name="video_error_media_load_timeout">Media loading timed out</string>
+    <string name="video_error_server_unaccessible">Media server was not reachable</string>
+    <string name="video_error_unknown_error">Failed to load video</string>
+    <string name="transition_image">transition-image</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+</resources>

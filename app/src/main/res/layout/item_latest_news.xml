@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="16dp"
+    android:paddingBottom="16dp">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/imgPosterAvatar"
+        android:layout_width="56dp"
+        android:layout_height="56dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginEnd="16dp"
+        />
+
+    <TextView
+        android:id="@+id/newsTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/imgPosterAvatar"
+        android:text="Goodbye Bidvertizer "
+        android:maxLines="1"
+        android:ellipsize="end"
+        android:textSize="16dp"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"/>
+    <TextView
+        android:id="@+id/newsBody"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/imgPosterAvatar"
+        android:layout_below="@+id/newsTitle"
+        android:text="what is this "
+        android:maxLines="3"
+        android:ellipsize="end"
+        android:textSize="14dp"
+        android:textStyle="bold"
+        android:textColor="@color/grayTextColor"/>
+
+</RelativeLayout>
