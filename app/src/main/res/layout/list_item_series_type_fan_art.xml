@@ -9,7 +9,7 @@
 
         <variable
             name="series"
-            type="tv.animeftw.app.model.SeriesEntity" />
+            type="tv.anime.ftw.model.SeriesEntity" />
     </data>
 
     <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"

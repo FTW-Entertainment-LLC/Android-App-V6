@@ -34,7 +34,7 @@
                     android:layout_height="wrap_content"
                     android:layout_alignParentBottom="true">
 
-                    <tv.animeftw.app.ui.ResizableImageView
+                    <tv.anime.ftw.ui.ResizableImageView
                         android:id="@+id/banner"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -245,7 +245,7 @@
             app:tabTextColor="#ffffff"></android.support.design.widget.TabLayout>
 
 
-        <tv.animeftw.app.ui.NonSwipeableViewPager
+        <tv.anime.ftw.ui.NonSwipeableViewPager
             android:id="@+id/viewPager"
             android:layout_width="match_parent"
             android:layout_height="match_parent"

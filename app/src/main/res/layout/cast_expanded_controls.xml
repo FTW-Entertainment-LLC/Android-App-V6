@@ -21,13 +21,13 @@
                 android:layout_height="match_parent"
                 android:background="@color/cast_activity_background_color"
                 tools:ignore="NewApi"
-                tools:context=".expandedcontrols.ExpandedControlsActivity">
+                tools:context="tv.anime.ftw.expandedcontrols.ExpandedControlsActivity">
 
     <fragment
             android:id="@+id/fragment"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            class="tv.animeftw.app.expandedcontrols.ExpandedControlsFragment"/>
+            class="tv.anime.ftw.expandedcontrols.ExpandedControlsFragment"/>
     <android.support.v7.widget.Toolbar
             android:id="@+id/toolbar"
             android:layout_width="match_parent"

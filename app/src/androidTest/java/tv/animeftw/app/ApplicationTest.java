@@ -1,4 +1,4 @@
-package tv.animeftw.app;
+package tv.anime.ftw;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

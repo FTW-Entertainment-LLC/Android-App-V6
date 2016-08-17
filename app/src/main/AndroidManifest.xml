@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="tv.animeftw.app">
+    package="tv.anime.ftw">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
-        android:name=".AnimeFtwTvApp"
+        android:name="tv.anime.ftw.AnimeFtwTvApp"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".activities.accounts.LoginActivity"
+            android:name="tv.anime.ftw.activities.accounts.LoginActivity"
             android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
             android:windowSoftInputMode="stateHidden" />
         <activity
-            android:name=".activities.accounts.SignupActivity"
+            android:name="tv.anime.ftw.activities.accounts.SignupActivity"
             android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
             android:windowSoftInputMode="stateHidden" />
         <activity
-            android:name=".activities.accounts.ProfileActivity"
+            android:name="tv.anime.ftw.activities.accounts.ProfileActivity"
             android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
             android:windowSoftInputMode="stateHidden" />
         <activity
-            android:name=".activities.MainActivity"
+            android:name="tv.anime.ftw.activities.MainActivity"
             android:configChanges="keyboard|keyboardHidden|orientation|screenSize">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -33,28 +33,28 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".activities.SingleSeriesActivity"
+            android:name="tv.anime.ftw.activities.SingleSeriesActivity"
             android:configChanges="keyboard|keyboardHidden|orientation|screenSize" />
         <activity
-            android:name=".activities.SearchActivity"
+            android:name="tv.anime.ftw.activities.SearchActivity"
             android:windowSoftInputMode="adjustResize" />
         <activity
-            android:name=".activities.CountryListActivity"
+            android:name="tv.anime.ftw.activities.CountryListActivity"
             android:configChanges="keyboard|keyboardHidden|orientation|screenSize" />
         <activity
-            android:name=".activities.NewsDetailActivity"
+            android:name="tv.anime.ftw.activities.NewsDetailActivity"
             android:configChanges="keyboard|keyboardHidden|orientation|screenSize" />
-        <activity android:name=".activities.WatchlistItemActivity"></activity>
+        <activity android:name="tv.anime.ftw.activities.WatchlistItemActivity"></activity>
 
         <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
         <meta-data
             android:name="com.google.android.gms.cast.framework.OPTIONS_PROVIDER_CLASS_NAME"
-            android:value="tv.animeftw.app.utils.CastOptionsProvider"/>
+            android:value="tv.anime.ftw.utils.CastOptionsProvider"/>
 
         <activity
-            android:name=".expandedcontrols.ExpandedControlsActivity"
+            android:name="tv.anime.ftw.expandedcontrols.ExpandedControlsActivity"
             android:label="@string/app_name"
             android:launchMode="singleTask"
             android:screenOrientation="portrait">
@@ -63,7 +63,7 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".activities.LocalPlayerActivity"
+        <activity android:name="tv.anime.ftw.activities.LocalPlayerActivity"
             android:configChanges="keyboard|keyboardHidden|orientation|screenSize"/>
     </application>
 

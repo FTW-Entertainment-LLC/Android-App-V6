@@ -9,7 +9,7 @@
 
         <variable
             name="movie"
-            type="tv.animeftw.app.model.MovieEntity" />
+            type="tv.anime.ftw.model.MovieEntity" />
     </data>
 
     <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"

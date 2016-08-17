@@ -1,2 +1,285 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_1994235cfa570b119b57884a6bd963e63685de3d.jar" />
+    </item>
+    <item
+        jar="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/exploded-aar/com.android.databinding/library/1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d985cdf99de8a63824b52d8a8efc309f9e5fbf01">
+        <dex dex="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/pre-dexed/debug/com.android.databinding-library-1.1_518817804371ac8980bb5e2ffdf429a5d7f2e945.jar" />
+    </item>
+    <item
+        jar="/Users/darshanz/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_d2e02a241cfee7f1f52c45b5c8afe0d7c622b056.jar" />
+    </item>
+    <item
+        jar="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0ea721fb076ab16ecc25d5c2adf6266d6732bea2">
+        <dex dex="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_27d9d98c6ccf13e3cfde1b0f16c12e7c9aaab9ef.jar" />
+    </item>
+    <item
+        jar="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/exploded-aar/com.google.android.libraries.cast.companionlibrary/ccl/2.8.4/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f6c21075047f45a8cc8a6e80231dabc8b485a9df">
+        <dex dex="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/pre-dexed/debug/com.google.android.libraries.cast.companionlibrary-ccl-2.8.4_e01ab8fe8ee35da68d7080293e03637075cfaa35.jar" />
+    </item>
+    <item
+        jar="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding/0.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ffc09f4e5bdebe068e5101f587dadc42b60fbfe4">
+        <dex dex="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/pre-dexed/debug/com.jakewharton.rxbinding-rxbinding-0.4.0_109a8e4fae776a89323a8c32dd0e7691681ef564.jar" />
+    </item>
+    <item
+        jar="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-9.4.0_7ddb8c0b14df0c109d07f0c2ffc6039731da06dd.jar" />
+    </item>
+    <item
+        jar="/Users/darshanz/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/2.1.0/a7aeef173c4e5b104ec04f146f8e8f9debde1c5e/baseLibrary-2.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a7aeef173c4e5b104ec04f146f8e8f9debde1c5e">
+        <dex dex="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/pre-dexed/debug/baseLibrary-2.1.0_1db2a34da50484c17a9d126110e6ac02ee5f0b1f.jar" />
+    </item>
+    <item
+        jar="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_005450a435b75eb1056acad57f62352100ae1788.jar" />
+    </item>
+    <item
+        jar="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.4.0_6ef62b96175404d8bca3f8bcd8019d5c94497068.jar" />
+    </item>
+    <item
+        jar="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-9.4.0_a03122ae243ec5173b474eb18e1def2093678ffa.jar" />
+    </item>
+    <item
+        jar="/Users/darshanz/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1_4fb1e46cb1b384931fd28e1043e7b9f6c680c7f8.jar" />
+    </item>
+    <item
+        jar="/Users/darshanz/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/pre-dexed/debug/eventbus-3.0.0_4d711ce925ee644e50abf926dc256d6a13577d2b.jar" />
+    </item>
+    <item
+        jar="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/exploded-aar/com.android.databinding/adapters/1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3cae403175958af8baa00bed0bd6e04187d69415">
+        <dex dex="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/pre-dexed/debug/com.android.databinding-adapters-1.1_5df1bbcccce84bcc7b642684a7179580213111fb.jar" />
+    </item>
+    <item
+        jar="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/exploded-aar/com.github.orangegangsters/swipy/1.2.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bb183283871cbff072b40a32e55e205ceac1dbe9">
+        <dex dex="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/pre-dexed/debug/com.github.orangegangsters-swipy-1.2.3_3ef8be97bfdf720877b63a005daf41fac567cb67.jar" />
+    </item>
+    <item
+        jar="/Users/darshanz/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/pre-dexed/debug/okio-1.6.0_ab906f35b1e704413b81ed5593d644673ade3a2a.jar" />
+    </item>
+    <item
+        jar="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="927e8ef5711b115b65b2f35495d77352be2b3c09">
+        <dex dex="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/pre-dexed/debug/io.reactivex-rxandroid-1.2.0_067cfaaa13b42b1f592bc39d6baf7a8a3f4891c3.jar" />
+    </item>
+    <item
+        jar="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5ecb7c85e5db4a206bcd927eb135bf5b9a608b73">
+        <dex dex="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-23.4.0_c9985b8907649d9c1cb5ee380e0aac94c0cf8b2e.jar" />
+    </item>
+    <item
+        jar="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding-appcompat-v7/0.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cea3c0edbda1279bc261187fb3b6f874bfc841f4">
+        <dex dex="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/pre-dexed/debug/com.jakewharton.rxbinding-rxbinding-appcompat-v7-0.4.0_56bccaca592efa4ee9510f39d841a00587974f88.jar" />
+    </item>
+    <item
+        jar="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-9.4.0_4ec6502b33e15844acd4c307be68881f6b2aef06.jar" />
+    </item>
+    <item
+        jar="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_009d691eab15eabd38167a0f3ededee20cba53a2.jar" />
+    </item>
+    <item
+        jar="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-framework-9.4.0_0f103d39096c0f53b77909539dd1318c6df60a12.jar" />
+    </item>
+    <item
+        jar="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/exploded-aar/com.android.support/palette-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="51518e8e8f97c314a243d9def0ded91d385b6a1e">
+        <dex dex="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-23.4.0_dd0a840f52ed07ae475333afef9c0d9eda44e06c.jar" />
+    </item>
+    <item
+        jar="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/exploded-aar/com.brucetoo.pickview/library/1.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="038c1e11fd3c013f5302afedcb8b9693b1b4a2ba">
+        <dex dex="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/pre-dexed/debug/com.brucetoo.pickview-library-1.1.1_9a15600b1ac77afdb578efc9c12fa19ccc67347c.jar" />
+    </item>
+    <item
+        jar="/Users/darshanz/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0_53107fae45e73d37d4a87b212cb6c0136b5a6961.jar" />
+    </item>
+    <item
+        jar="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/exploded-aar/com.github.ybq/Android-SpinKit/1.0.4/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="876128c14268a173e9f1be29ed9ee637575f7e91">
+        <dex dex="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/pre-dexed/debug/com.github.ybq-Android-SpinKit-1.0.4_614000acac4df4ef33c1939374daa624aa46fe1b.jar" />
+    </item>
+    <item
+        jar="/Users/darshanz/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.5/ece7b5d0870e66d8226dab6dcf47a2b12afff061/rxjava-1.1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ece7b5d0870e66d8226dab6dcf47a2b12afff061">
+        <dex dex="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/pre-dexed/debug/rxjava-1.1.5_469d0fcf54596681b2b2771fe51c2935738c00d7.jar" />
+    </item>
+    <item
+        jar="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/pre-dexed/debug/de.hdodenhof-circleimageview-2.0.0_b6347ee9281d27696ce6021169631e5b18c11e73.jar" />
+    </item>
+    <item
+        jar="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-9.4.0_dd927d86955f0565685d44b69e37160919a25322.jar" />
+    </item>
+    <item
+        jar="/Users/darshanz/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.7.0/1477ec5caf8319ab4b51eb43553cd66aa86fdea5/okhttp-2.7.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1477ec5caf8319ab4b51eb43553cd66aa86fdea5">
+        <dex dex="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/pre-dexed/debug/okhttp-2.7.0_8171d7b7d76b1de4d29a27949c5c005c435101d4.jar" />
+    </item>
+    <item
+        jar="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_324f6da982ecd70eca680a02c4527cba84143b63.jar" />
+    </item>
+    <item
+        jar="/Users/darshanz/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.5/442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375/universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.5_56f6ce7bfc5c809f89e74b7ae178bd75e146474f.jar" />
+    </item>
+    <item
+        jar="/Users/darshanz/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.5/686c608d1805b6d4d425ec4459e88164ffc85870/gson-2.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/pre-dexed/debug/gson-2.5_adebbefc3be199e020fa8564ac6dde459acbe495.jar" />
+    </item>
+    <item
+        jar="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_4bde1a9ca7a993ceea7d78424ae7b4b85bc8cf02.jar" />
+    </item>
+    <item
+        jar="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.4.0_cef46117c9513d70dac9c707c53247803ed54415.jar" />
+    </item>
+    <item
+        jar="/Users/darshanz/.gradle/caches/modules-2/files-2.1/io.realm/realm-android/0.87.0/6b0bd924be0cc3374f32df089ede9dcea6bdef97/realm-android-0.87.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6b0bd924be0cc3374f32df089ede9dcea6bdef97">
+        <dex dex="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/pre-dexed/debug/realm-android-0.87.0_4391f5c337cdf232dcc6eea6923aa465dc0b7edd.jar" />
+    </item>
+    <item
+        jar="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_365830286a8149fef06c2d20db925f1cc0e1450c.jar" />
+    </item>
+    <item
+        jar="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_bbea93cf688853d3f4d4a1e844fac4d451252628.jar" />
+    </item>
+    <item
+        jar="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-9.4.0_61a30abfe2743447ef02f93e066def5f60b7a843.jar" />
+    </item>
+    <item
+        jar="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/darshanz/Documents/0Technoguff/Projects/AnimeFTW.tv/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.4.0_48f45865761ef79552c2079cf6beee5a60d9a9ec.jar" />
+    </item>
+
+</items>

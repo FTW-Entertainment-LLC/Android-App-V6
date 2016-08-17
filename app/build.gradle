@@ -6,7 +6,7 @@ android {
     buildToolsVersion "23.0.1"
 
     defaultConfig {
-        applicationId "tv.animeftw.app"
+        applicationId "tv.anime.ftw"
         minSdkVersion 17
         targetSdkVersion 23
         versionCode 1

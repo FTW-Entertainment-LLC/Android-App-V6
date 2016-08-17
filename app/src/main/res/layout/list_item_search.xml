@@ -9,7 +9,7 @@
 
         <variable
             name="item"
-            type="tv.animeftw.app.model.SearchResultEntity" />
+            type="tv.anime.ftw.model.SearchResultEntity" />
     </data>
 
     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"

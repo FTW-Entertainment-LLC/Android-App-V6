@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:background="@color/graybg"
-    tools:context=".activities.accounts.SignupActivity">
+    tools:context="tv.anime.ftw.activities.accounts.SignupActivity">
 
 <RelativeLayout
     android:layout_width="match_parent"
